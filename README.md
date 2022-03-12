@@ -49,7 +49,7 @@
     <img algin="center" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
   <a href="https://unity.com/">
-    <img algin="center" alt="Unity" width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/>
+    <img algin="center" alt="Unity" width="40" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/unitylogo.jpg"/>
   </a>
 </p><br>
 
