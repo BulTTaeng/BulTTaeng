@@ -1,5 +1,3 @@
-### Hi 👋
-
 <h3 align="center">✨ About Me ✨</h3>
 
 <p align="center">
@@ -22,7 +20,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/unity-COCOCO?style=for-the-badge&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-COCOCO?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -51,7 +49,7 @@
     <img algin="center" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
   <a href="https://unity.com/">
-    <img algin="center" alt="Unity" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
+    <img algin="center" alt="Unity" width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
   </a>
 </p><br>
 
