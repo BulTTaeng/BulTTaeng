@@ -53,6 +53,13 @@
   </a>
 </p><br>
 
+
+<h3 align="center">📜Blog📜</h3>
+<br>
+<p align="center">
+ <a href="https://www.java.com/en">Blog Link</a>
+</p>
+
 <!--
 **Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
