@@ -57,7 +57,7 @@
 <h3 align="center">📜Blog📜</h3>
 <br>
 <p align="center">
- <a href="https://www.java.com/en">Blog Link</a>
+ <a href="https://blog.naver.com/crazem">Blog Link</a>
 </p>
 
 <!--
