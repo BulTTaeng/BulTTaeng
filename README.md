@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-COCOCO?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-800000?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-FFFF00?style=flat-square&logo=nginx&logoColor=white"/>
+  
 </p>
 
 <p align="center">
@@ -50,6 +53,12 @@
   </a>
   <a href="https://unity.com/">
     <img algin="center" alt="Unity" width="40" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/unitylogo.jpg"/>
+  </a>
+  <a href="https://httpd.apache.org/">
+    <img algin="center" alt="Apache" width="40" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/apache.png"/>
+  </a>
+  <a href="https://www.nginx.com/">
+    <img algin="center" alt="Nginx" width="60" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/nginx.png"/>
   </a>
 </p><br>
 
