@@ -1,7 +1,7 @@
 <h3 align="center">😀 About Me 😀</h3>
 
 <p align="center">
-  I'm interested in Android App , Metaverse , Server. 📱🎮<br>
+  I'm interested in Android App , Metaverse. 📱🎮<br>
   I like travel and challenging things ✈️🔥
 </p><br>
 
