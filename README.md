@@ -77,10 +77,12 @@
 </p><br>
 
 
-<h3 align="center">📜Blog📜</h3>
+<h3 align="center">📜Blog & Portfolio📜</h3>
 <br>
 <p align="center">
  <a href="https://blog.naver.com/crazem">Blog Link</a>
+  <br>
+  <a href="https://bulttaeng.github.io/">Portfolio Link</a>
 </p>
 
 <h3 align="center">📱Published📱</h3>
