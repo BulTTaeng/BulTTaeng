@@ -83,6 +83,13 @@
  <a href="https://blog.naver.com/crazem">Blog Link</a>
 </p>
 
+<h3 align="center">📱Published📱</h3>
+<br>
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.greenfarm.nuru&pli=1">Nuru</a>
+ <a href="https://play.google.com/store/apps/details?id=com.healing.standalone&hl=ko&gl=US">홀로서기</a>
+</p>
+
 <!--
 **Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
