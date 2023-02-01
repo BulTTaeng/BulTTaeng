@@ -87,6 +87,7 @@
 <br>
 <p align="center">
  <a href="https://play.google.com/store/apps/details?id=com.greenfarm.nuru&pli=1">Nuru</a>
+ <br>
  <a href="https://play.google.com/store/apps/details?id=com.healing.standalone&hl=ko&gl=US">홀로서기</a>
 </p>
 
