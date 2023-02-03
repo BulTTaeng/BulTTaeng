@@ -88,9 +88,14 @@
 <h3 align="center">📱Published📱</h3>
 <br>
 <p align="center">
- <a href="https://play.google.com/store/apps/details?id=com.greenfarm.nuru&pli=1">Nuru</a>
- <br>
- <a href="https://play.google.com/store/apps/details?id=com.healing.standalone&hl=ko&gl=US">홀로서기</a>
+
+ <a href="https://play.google.com/store/apps/details?id=com.greenfarm.nuru&pli=1">
+    <img algin="center" width="60" height="50" src="https://github.com/BulTTaeng/BulTTaeng/blob/main/nuru_icon.png"/>
+ </a>
+ 
+ <a href="https://play.google.com/store/apps/details?id=com.healing.standalone&hl=ko&gl=US">
+    <img algin="center" width="60" height="50" src="https://github.com/BulTTaeng/BulTTaeng/blob/main/standalone_icon.png"/>
+ </a>
 </p>
 
 <!--
