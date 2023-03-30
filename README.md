@@ -42,7 +42,7 @@
     <img algin="center" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
   </a>
   <a href="https://kotlinlang.org/">
-    <img algin="center" alt="Koltin" width="40" height="40" src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/kotlin.jpg"/>
+    <img algin="center" alt="Koltin" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/>
   </a>
 </p><br>
 
