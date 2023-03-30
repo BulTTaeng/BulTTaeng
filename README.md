@@ -69,10 +69,10 @@
     <img algin="center" alt="Unity" width="40" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/unitylogo.jpg"/>
   </a>
   <a href="https://httpd.apache.org/">
-    <img algin="center" alt="Apache" width="40" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/apache.png"/>
+    <img algin="center" alt="Apache" width="40" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"/>
   </a>
   <a href="https://www.nginx.com/">
-    <img algin="center" alt="Nginx" width="60" height="40"  src="https://github.com/Choi-JaeHyeok-21500749/Choi-JaeHyeok-21500749/blob/main/nginx.png"/>
+    <img algin="center" alt="Nginx" width="60" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
   </a>
 </p><br>
 
