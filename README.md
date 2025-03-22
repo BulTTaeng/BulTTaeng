@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-008080?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/jetpackCompose-929292?style=flat-square&logo=JetpackCompose&logoColor=Black"/>
+  <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=Black"/>
 </p>
 
 <p align="center">
@@ -23,6 +24,9 @@
   </a>
   <a href="https://kotlinlang.org/">
     <img algin="center" alt="JetpackCompose" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg"/>
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img algin="center" alt="JetpackCompose" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg"/>
   </a>
 </p><br>
 
